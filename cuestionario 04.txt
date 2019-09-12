@@ -1,0 +1,22 @@
+1-
+2-la cantidad de parametros o tipos(tambien el tipo devuelto)
+3-se resuelve en compilacion
+4-no es valida(no pueden cambiar el nombre del parametro solo el tipo)
+5-no se puede cambiar la visibilidad
+6-no solo hay sobrecarga entre metodos o constructores
+7-añadir funcionalidad sin alterar la funcion ya hecha y cambiar el parametro para una misma funcionalidad
+8-si se pueden
+9-no
+10-cuentan como sobrecarga valida
+11-no es valido
+12-llamamos metodos dentro del codigo para reutilizarlo
+13-no se pueden sobrecargar y tampoco recibir parametros de entrada ni visibilidad (CLR)
+14-no se pueden llamar los contructores estaticos solo los llama el CLR
+15-no ya que this() se refiere a la misma instancia
+16-si
+17-es un simbolo que sirve para operar con parametros, el binario opera con 2 parametros y el binario solo con 1
+18-uno tiene 2 paramentros de entrada y el otro 1
+19-si
+20-la explicita es de uso conciente, la declaracion es public static explicit y se aplica para convertir con perdidas
+21-la alternativa es la manera explicita
+22-parsear es interpretar un string y pasarlo a otro tipo, el casteo es comvertir algo que ya implicitamente es de el tipo a castear, y el convert es un metodo que opera sobre un tipo para cambiarlo y devolverlo en otro tipo
