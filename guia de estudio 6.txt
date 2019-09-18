@@ -1,0 +1,16 @@
+1-si(se instancia en el main).
+2-heredan de las clase Form
+3-es una clase que se puede dividir en 2 archivos(solo hereda 1).
+4-si ya que es un objeto y se aplican las mismas reglas de sobrecarga.
+5-showDialog es modal y no te deja interactuar con otras ventanas show no es modal.
+6-MDI: multiple documents interfase, isMdiContainer(true || false),MdiParent=FormPadre;
+SDI:single document interase.
+7-closing(cerrandose),closed(cerrado),disposed(una ves fuera de la memoria),load(en carga antes de ser visible),paint(visible),activated(cada vez que se hace foco).
+8-es una array con arrays anidados, se inicializa en NULL(ya que es tipo referencia)
+9-todos son objetos
+10-significa que el index empieza en 0
+11-iEnumerable deja usar foreach
+13-muestra 38 (la suma de las casillas totales de cada array)
+14-es lo mismo ya que string es una alias de String
+15-se puede ya que un string es un array de chars
+16-significa que no se pueden cambiar una vez creado(al modificarlo crea uno nuevo para poder modificarlo y el anterior se borra)
