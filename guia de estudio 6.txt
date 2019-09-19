@@ -14,3 +14,14 @@ SDI:single document interase.
 14-es lo mismo ya que string es una alias de String
 15-se puede ya que un string es un array de chars
 16-significa que no se pueden cambiar una vez creado(al modificarlo crea uno nuevo para poder modificarlo y el anterior se borra)
+
+
+ENCAPSULACIÓN
+=
+Agrupamiento de datos junto con los métodos que los operan en un
+contenedor.
++
+Ocultamiento de los detalles de la implementación y protección
+del acceso a datos.
+=
+Implementación de la ABSTRACCIÓN.
